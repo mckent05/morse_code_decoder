@@ -23,3 +23,17 @@ def decode_word(words)
     end
     return form_word
 end
+
+def decode_message(message)
+    get_word =''
+    form_message = ''
+    message=message.split('   ')
+    message.each do |word| 
+       get_word = decode_word(word)
+       form_message +="#{get_word} "
+    end
+    return form_message
+end
+
+puts decode_message("-- -.--   -. .- -- .")
+puts decode_message('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-. / .-. ..- -... .. . ...')
