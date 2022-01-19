@@ -16,16 +16,16 @@ Or open the morse_code.rb file in the dist directory to start coding
 
 👤 Aknlade Temitope A.
 
-GitHub: [@githubhandle](https://github.com/mckent05/)
-Twitter: [@twitterhandle](https://twitter.com/mckent05/)
-LinkedIn: [LinkedIn](https://linkedin.com/in/akinladetemitope/)
+-GitHub: [@githubhandle](https://github.com/mckent05/)
+-Twitter: [@twitterhandle](https://twitter.com/mckent05/)
+-LinkedIn: [LinkedIn](https://linkedin.com/in/akinladetemitope/)
 
 
 👤 Hamid Murambiwa
 
-GitHub: [@githubhandle](https://github.com/hamid-murambiwa/)
-Twitter: [@twitterhandle](https://twitter.com/Hamid87789454/)
-LinkedIn: [LinkedIn](https://linkedin.com/in/hamid-murambiwa/)
+-GitHub: [@githubhandle](https://github.com/hamid-murambiwa/)
+-Twitter: [@twitterhandle](https://twitter.com/Hamid87789454/)
+-LinkedIn: [LinkedIn](https://linkedin.com/in/hamid-murambiwa/)
 
 
 🤝 Contributing
